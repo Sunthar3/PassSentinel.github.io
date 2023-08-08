@@ -25,8 +25,7 @@ To run PassSentinel locally, follow these steps:
 
 ## Technologies Used
 - Front-end: HTML, CSS, JavaScript, React.js
-- Back-end: Node.js, Express.js
+- Back-end: Flask
 - Machine Learning: TensorFlow
-- Deployment: Heroku
 
 ---
